@@ -1,0 +1,4 @@
+All my notes on numpy and examples are stored in the ipynb form
+It is recommended that you use Jupyter Notebook
+However any text editor that you might want to later work on is fine
+My recommendations will strictly be Jupyter and Pycharm
